@@ -40,6 +40,7 @@ Những kiến thức trong repository này được mình chắt lọc và họ
 * Khóa học *Machine Learning Specialization* (GS. Andrew Ng).
 * Tài liệu môn *CS229: Machine Learning* (Đại học Stanford).
 * Documentation của Scikit-Learn và PyTorch.
+* Blog *Machine Learning căn bản* (PhD Vũ Hữu Tiệp)
 
 ---
 
